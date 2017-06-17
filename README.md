@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## CodeIgniter 3 Bootstrap Demo
 
 This is a demo repository based on [CI Bootstrap 3](https://github.com/waifung0207/ci_bootstrap_3) (version: build 2016-12-09).
@@ -24,3 +25,6 @@ After import latest.sql, 4 additional database tables will be added on top of co
 
 * For blog demo: **blog_categories**, **blog_posts**, **blog_posts_tags**, **blog_tags**
 * For Image CRUD demo: **cover_photos**
+=======
+# backend
+>>>>>>> e0073bff7373d1ee3b472e40932b22b578409a8a
