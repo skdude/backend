@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f402ffa3-782c-48b8-8cd4-82c90112150c" name="backend" url="http://ftp.skdev.be">
+        <fileTransfer host="ftp.skdev.be" port="21" rootFolder="/www/backend">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
